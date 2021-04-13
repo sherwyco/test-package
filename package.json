@@ -1,0 +1,19 @@
+{
+  "name": "@sherwyco/test-package",
+  "version": "1.0.0",
+  "description": "this is a test package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sherwyco/test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sherwyco/test-package/issues"
+  },
+  "homepage": "https://github.com/sherwyco/test-package#readme"
+}
